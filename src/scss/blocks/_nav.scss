@@ -14,10 +14,16 @@
 .nav__logo {
 }
 
-.logo {
+.nav__list {
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
 }
 
-.nav__list {
+.nav__item {
+}
+
+.nav__link {
 }
 
 .nav__btns {
