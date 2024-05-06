@@ -7,8 +7,20 @@
 .icon {
 	fill: transparent;
 	stroke: transparent;
-	width: 62px;
-	height: 62px;
+}
+
+.icon--ticket-percent {
+    fill: #fefefe;
+}
+
+.icon--arrow-right {
+    stroke: var(--yellow);
+}
+
+.icon--close {
+    width: 20px;
+    height: 20px;
+    fill: #343839;
 }
 
 .icon--heart-line {
