@@ -1,11 +1,24 @@
-.header__nav {
-}
 .nav {
-	font-size: 18px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+    background-color: #ffc95c;
 }
+
+.nav__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav__logo {
+}
+
+.logo {
+}
+
 .nav__list {
-	display: flex;
-	column-gap: 30px;
 }
-.active {
+
+.nav__btns {
 }
