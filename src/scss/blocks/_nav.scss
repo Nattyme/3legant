@@ -2,13 +2,14 @@
     padding-top: 16px;
     padding-bottom: 16px;
 
+    font-family: var(--font-nav);
     background-color: #ffc95c;
 }
 
 .nav__row {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .nav__logo {
@@ -21,10 +22,42 @@
 }
 
 .nav__item {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.71;
 }
 
 .nav__link {
+    display: flex;
+    column-gap: 2px;
+    align-items: center;
+
+    color: var(--black);
 }
 
 .nav__btns {
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
+
+.nav__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
+}
+
+.nav__btn-count {
+    display: inline-block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background-color: var(--black);
+
+    text-align: center;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    color: var(--yellow);
 }
