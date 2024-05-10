@@ -7,16 +7,36 @@
     <path d="m5.204 6.75 4.5 4.5 4.5-4.5" stroke="#141718" stroke-width="1.125" stroke-linecap="round" stroke-linejoin="round"/>
 </svg><svg fill="none" viewBox="0 0 20 20" id="close" xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M15.442 5.442a.625.625 0 1 0-.884-.884L10 9.116 5.442 4.558a.625.625 0 1 0-.884.884L9.116 10l-4.558 4.558a.625.625 0 1 0 .884.884L10 10.884l4.558 4.558a.625.625 0 1 0 .884-.884L10.884 10l4.558-4.558Z" fill="#343839"/>
+</svg><svg fill="none" viewBox="0 0 24 24" id="email" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.077 6.53a1.25 1.25 0 0 1 1.196-.884h14c.563 0 1.04.373 1.195.885l-8.195 5.464L4.077 6.53Zm-1.554.352v10.014a2.75 2.75 0 0 0 2.75 2.75h14a2.75 2.75 0 0 0 2.75-2.75v-9.99m-1.5 1.391v8.599c0 .69-.56 1.25-1.25 1.25h-14c-.69 0-1.25-.56-1.25-1.25V8.297l7.834 5.223a.75.75 0 0 0 .832 0l7.834-5.223Zm1.5-1.415a2.75 2.75 0 0 0-2.75-2.736h-14a2.75 2.75 0 0 0-2.75 2.736" fill="#141718"/>
+</svg><svg fill="none" viewBox="0 0 24 24" id="facebook" xmlns="http://www.w3.org/2000/svg">
+    <path d="M18 3h-3a5 5 0 0 0-5 5v2H6v4h4v7h4v-7h4v-4h-4V8a1 1 0 0 1 1-1h3V3Z" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg><svg fill="none" viewBox="0 0 48 48" id="finance" xmlns="http://www.w3.org/2000/svg">
+    <rect x="4" y="8" width="40" height="32" rx="4" stroke="#141718" stroke-width="2.5"/>
+    <circle cx="4" cy="4" r="4" transform="matrix(1 0 0 -1 20 28)" stroke="#141718" stroke-width="2.5"/>
+    <circle cx="2" cy="2" r="2" transform="matrix(1 0 0 -1 34 26)" fill="#141718"/>
+    <circle cx="2" cy="2" r="2" transform="matrix(1 0 0 -1 10 26)" fill="#141718"/>
 </svg><svg fill="none" viewBox="0 0 20 16" id="heart" xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M10.577 3.764a.833.833 0 0 1-1.154 0l-.577-.553A3.75 3.75 0 0 0 2.5 5.917c0 1.985 1.075 3.625 2.627 4.972 1.552 1.348 3.41 2.242 4.519 2.699a.914.914 0 0 0 .708 0c1.11-.457 2.967-1.351 4.52-2.7C16.425 9.543 17.5 7.903 17.5 5.918a3.75 3.75 0 0 0-6.346-2.706l-.577.553ZM10 2.008A5.417 5.417 0 0 0 .833 5.917c0 5.306 5.809 8.237 8.179 9.212a2.58 2.58 0 0 0 1.976 0c2.37-.975 8.179-3.905 8.179-9.212A5.417 5.417 0 0 0 10 2.008Z" fill="#6C7275"/>
 </svg><svg fill="none" viewBox="0 0 24 24" id="heart-line" xmlns="http://www.w3.org/2000/svg">
     <path d="M12.001 4.529a5.998 5.998 0 0 1 8.242.228 6 6 0 0 1 .236 8.236l-8.48 8.492-8.478-8.492a6 6 0 0 1 8.48-8.464Zm6.826 1.641a3.998 3.998 0 0 0-5.49-.153l-1.335 1.198-1.336-1.197a4 4 0 0 0-5.686 5.605L12 18.654l7.02-7.03a4 4 0 0 0-.193-5.454Z" fill="#000"/>
 </svg><svg fill="none" viewBox="0 0 24 24" id="id-card-line" xmlns="http://www.w3.org/2000/svg">
     <path d="M3 6h18v12H3V6ZM2 4a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h20a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H2Zm11 4h6v2h-6V8Zm5 4h-5v2h5v-2Zm-7.5-2a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM8 13.5A3.5 3.5 0 0 0 4.5 17h7A3.5 3.5 0 0 0 8 13.5Z" fill="#000"/>
+</svg><svg fill="none" viewBox="0 0 24 24" id="instagram" xmlns="http://www.w3.org/2000/svg">
+    <rect x="2" y="2" width="20" height="20" rx="4" stroke="#FEFEFE" stroke-width="1.5"/>
+    <circle cx="18" cy="6" r="1" fill="#FEFEFE"/>
+    <circle cx="12" cy="12" r="5" stroke="#FEFEFE" stroke-width="1.5"/>
+</svg><svg fill="none" viewBox="0 0 36 44" id="lock" xmlns="http://www.w3.org/2000/svg">
+    <path d="M26 14H10m16 0a8 8 0 0 1 8 8v12a8 8 0 0 1-8 8H10a8 8 0 0 1-8-8V22a8 8 0 0 1 8-8m16 0v-4a8 8 0 1 0-16 0v4m8 16v-4" stroke="#141718" stroke-width="2.5" stroke-linecap="round"/>
+</svg><svg fill="none" viewBox="0 0 40 40" id="phone" xmlns="http://www.w3.org/2000/svg">
+    <path d="M38 34v-3.292a4 4 0 0 0-2.514-3.714l-4.069-1.627a4 4 0 0 0-5.063 1.925L26 28s-5-1-9-5-5-9-5-9l.708-.354a4 4 0 0 0 1.925-5.063l-1.627-4.069A4 4 0 0 0 9.292 2H6a4 4 0 0 0-4 4c0 17.673 14.327 32 32 32a4 4 0 0 0 4-4Z" stroke="#141718" stroke-width="2.5" stroke-linejoin="round"/>
 </svg><svg fill="none" viewBox="0 0 24 24" id="search" xmlns="http://www.w3.org/2000/svg">
     <path d="M18.5 18.5 22 22m-1-10.5a9.5 9.5 0 1 0-19 0 9.5 9.5 0 0 0 19 0Z" stroke="#141718" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg><svg fill="none" viewBox="0 0 24 24" id="search-line" xmlns="http://www.w3.org/2000/svg">
     <path d="m18.031 16.617 4.283 4.282-1.415 1.415-4.282-4.283A8.96 8.96 0 0 1 11 20c-4.968 0-9-4.032-9-9s4.032-9 9-9 9 4.032 9 9a8.96 8.96 0 0 1-1.969 5.617Zm-2.006-.742A6.977 6.977 0 0 0 18 11c0-3.867-3.133-7-7-7s-7 3.133-7 7 3.133 7 7 7a6.977 6.977 0 0 0 4.875-1.975l.15-.15Z" fill="#000"/>
+</svg><svg fill="none" viewBox="0 0 48 48" id="shipping" xmlns="http://www.w3.org/2000/svg">
+    <path d="M28 38V14m0 24h4m-4 0H18m10-24a8 8 0 0 0-8-8h-8a8 8 0 0 0-8 8v16a8.003 8.003 0 0 0 6.008 7.75M28 14h6.418a4 4 0 0 1 2.736 1.082l5.582 5.233A4 4 0 0 1 44 23.233V34a4 4 0 0 1-4 4m0 0a4 4 0 0 1-8 0m8 0a4 4 0 0 0-8 0m-14 0a4 4 0 1 1-7.992-.25M18 38a4 4 0 0 0-7.992-.25" stroke="#141718" stroke-width="2.5"/>
+    <path d="M20 16h-4M20 24h-8" stroke="#141718" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg><svg fill="none" viewBox="0 0 14 14" id="star" xmlns="http://www.w3.org/2000/svg">
     <path d="m7 1.302 1.537 3.696a1 1 0 0 0 .843.612l3.99.32-3.04 2.604a1 1 0 0 0-.322.992l.929 3.893-3.416-2.087a1 1 0 0 0-1.042 0L3.063 13.42l.929-3.893a1 1 0 0 0-.322-.992L.63 5.93l3.99-.32a1 1 0 0 0 .843-.612L7 1.302Z" stroke="#A7A7A7"/>
 </svg><svg fill="none" viewBox="0 0 14 14" id="star-fill" xmlns="http://www.w3.org/2000/svg">
@@ -54,4 +74,7 @@
     <path d="M151.5 294.5c0-23.196-18.804-42-42-42a41.823 41.823 0 0 0-19.482 4.782c-13.386 7.021-19.327 21.053-19.327 37.218 0 23.196 15.613 36.457 38.809 36.457 16.214 0 30.282-3.645 37.282-17.099A41.814 41.814 0 0 0 151.5 294.5z" fill="#ffbf54"/>
     <path d="M147.47 312.47c-6.73 14.21-21.2 24.03-37.97 24.03-23.2 0-42-18.8-42-42 0-16.77 9.82-31.24 24.03-37.97-2.59 5.45-4.03 11.54-4.03 17.97 0 23.2 18.8 42 42 42 6.43 0 12.52-1.44 17.97-4.03z" fill="#ffa442"/>
     <path d="M149.5 374h-70a7.5 7.5 0 0 1 0-15h70a7.5 7.5 0 0 1 0 15zM149.5 404h-80a7.5 7.5 0 0 1 0-15h80a7.5 7.5 0 0 1 0 15zM149.5 434h-80a7.5 7.5 0 0 1 0-15h80a7.5 7.5 0 0 1 0 15zM288.5 374h-70a7.5 7.5 0 0 1 0-15h70c4.143 0 7.5 3.358 7.5 7.5s-3.357 7.5-7.5 7.5zM288.5 404h-80a7.5 7.5 0 0 1 0-15h80c4.143 0 7.5 3.358 7.5 7.5s-3.357 7.5-7.5 7.5zM288.5 434h-80a7.5 7.5 0 0 1 0-15h80c4.143 0 7.5 3.358 7.5 7.5s-3.357 7.5-7.5 7.5zM427.5 374h-70c-4.143 0-7.5-3.358-7.5-7.5s3.357-7.5 7.5-7.5h70c4.143 0 7.5 3.358 7.5 7.5s-3.357 7.5-7.5 7.5zM427.5 404h-80c-4.143 0-7.5-3.358-7.5-7.5s3.357-7.5 7.5-7.5h80c4.143 0 7.5 3.358 7.5 7.5s-3.357 7.5-7.5 7.5zM427.5 434h-80c-4.143 0-7.5-3.358-7.5-7.5s3.357-7.5 7.5-7.5h80c4.143 0 7.5 3.358 7.5 7.5s-3.357 7.5-7.5 7.5z" fill="#f0e9e6"/>
+</svg><svg fill="none" viewBox="0 0 24 24" id="youtube" xmlns="http://www.w3.org/2000/svg">
+    <rect x="2" y="3" width="20" height="18" rx="4" stroke="#FEFEFE" stroke-width="1.5"/>
+    <path d="m10.447 8.724 4.764 2.382a1 1 0 0 1 0 1.788l-4.764 2.382A1 1 0 0 1 9 14.382V9.618a1 1 0 0 1 1.447-.894Z" stroke="#FEFEFE" stroke-width="1.5" stroke-linecap="round"/>
 </svg></svg>
